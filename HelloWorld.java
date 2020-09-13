@@ -3,8 +3,9 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Welcome!!");
     System.out.println("Welcome Again!!");
-    System.out.println("Welcome Again!!");
-}
+    System.out.println("Welcome aboard!!");
+    System.out.println("Welcome to Jurassic Park!!");
+  }
 }
 
 
